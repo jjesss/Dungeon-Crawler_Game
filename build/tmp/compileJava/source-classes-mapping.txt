@@ -1,0 +1,89 @@
+com/mygdx/game/Debug.java
+ com.mygdx.game.Debug
+com/mygdx/game/BaseGame.java
+ com.mygdx.game.BaseGame
+com/mygdx/game/UserInterface.java
+ com.mygdx.game.UserInterface
+ com.mygdx.game.UserInterface$1
+ com.mygdx.game.UserInterface$2
+ com.mygdx.game.UserInterface$3
+ com.mygdx.game.UserInterface$4
+ com.mygdx.game.UserInterface$5
+com/mygdx/game/LevelScreen3.java
+ com.mygdx.game.LevelScreen3
+com/mygdx/game/screens/AbstractScreen.java
+ com.mygdx.game.screens.AbstractScreen
+com/mygdx/game/enemies/Ghost.java
+ com.mygdx.game.enemies.Ghost
+com/mygdx/game/Player.java
+ com.mygdx.game.Player
+com/mygdx/game/Skeleton.java
+ com.mygdx.game.Skeleton
+com/mygdx/game/BaseActor.java
+ com.mygdx.game.BaseActor
+com/mygdx/game/BaseScreen.java
+ com.mygdx.game.BaseScreen
+com/mygdx/game/Bush.java
+ com.mygdx.game.Bush
+com/mygdx/game/SetupManager.java
+ com.mygdx.game.SetupManager
+com/mygdx/game/Solid.java
+ com.mygdx.game.Solid
+com/mygdx/game/entityComponents/entityDirection.java
+ com.mygdx.game.entityComponents.entityDirection
+com/mygdx/game/Coin.java
+ com.mygdx.game.Coin
+com/mygdx/game/Enemy.java
+ com.mygdx.game.Enemy
+com/mygdx/game/MyCamera.java
+ com.mygdx.game.MyCamera
+com/mygdx/game/DungeonCrawler.java
+ com.mygdx.game.DungeonCrawler
+com/mygdx/game/LevelScreen2.java
+ com.mygdx.game.LevelScreen2
+com/mygdx/game/Dragon.java
+ com.mygdx.game.Dragon
+com/mygdx/game/Hero.java
+ com.mygdx.game.Hero
+com/mygdx/game/BaseLevel.java
+ com.mygdx.game.BaseLevel
+ com.mygdx.game.BaseLevel$1
+com/mygdx/game/EnemyProjectile.java
+ com.mygdx.game.EnemyProjectile
+com/mygdx/game/SkeletonArcher.java
+ com.mygdx.game.SkeletonArcher
+com/mygdx/game/Sword.java
+ com.mygdx.game.Sword
+com/mygdx/game/Instructions.java
+ com.mygdx.game.Instructions
+ com.mygdx.game.Instructions$1
+com/mygdx/game/FireBall.java
+ com.mygdx.game.FireBall
+com/mygdx/game/LevelScreen.java
+ com.mygdx.game.LevelScreen
+com/mygdx/game/EnemiesManager.java
+ com.mygdx.game.EnemiesManager
+com/mygdx/game/enemies/AbstractEnemy.java
+ com.mygdx.game.enemies.AbstractEnemy
+com/mygdx/game/Projectile.java
+ com.mygdx.game.Projectile
+com/mygdx/game/screens/GameScreen.java
+ com.mygdx.game.screens.GameScreen
+com/mygdx/game/Renderable.java
+ com.mygdx.game.Renderable
+com/mygdx/game/TilemapActor.java
+ com.mygdx.game.TilemapActor
+com/mygdx/game/MenuScreen.java
+ com.mygdx.game.MenuScreen
+ com.mygdx.game.MenuScreen$1
+ com.mygdx.game.MenuScreen$2
+com/mygdx/game/BigDragon.java
+ com.mygdx.game.BigDragon
+com/mygdx/game/BaseHealth.java
+ com.mygdx.game.BaseHealth
+com/mygdx/game/Entity.java
+ com.mygdx.game.Entity
+com/mygdx/game/DCGame.java
+ com.mygdx.game.DCGame
+com/mygdx/game/Slime.java
+ com.mygdx.game.Slime
