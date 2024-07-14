@@ -1,0 +1,182 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Minecraft.tsx": {
+            "scaleInDock": 1
+        },
+        "/Test2IsoTiles.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/30x30tilesets.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Minecraft.tsx": {
+            "scaleInDock": 0.5782,
+            "scaleInEditor": 1
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test1.tmx": {
+            "scale": 1.05,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 297.6190476190476,
+                "y": 361.4285714285714
+            }
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2.2.tmx": {
+            "scale": 0.5682,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 604.5406546990496,
+                "y": 692.5378387891589
+            }
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2.3.tmx": {
+            "scale": 2.1658,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 150.75260873580203,
+                "y": 84.72619817157631
+            }
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2.tmx": {
+            "scale": 0.39,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 583.3333333333333,
+                "y": 816.6666666666665
+            }
+        },
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2IsoTiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.644,
+            "scaleInEditor": 1
+        },
+        "30x30tilesets.tsx": {
+            "scaleInDock": 1
+        },
+        "BigProps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level1.tmx": {
+            "scale": 5.5832,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 937.0074509242012,
+                "y": 558.9088694655395
+            }
+        },
+        "Minecraft.tsx": {
+            "scaleInDock": 0.98,
+            "scaleInEditor": 1.5482
+        },
+        "Test1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.98,
+            "scaleInEditor": 1
+        },
+        "Test2.2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1505.5,
+                "y": 776.5
+            }
+        },
+        "Test2.3.tmx": {
+            "scale": 1.79,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 162.2905027932961,
+                "y": 58.938547486033514
+            }
+        },
+        "Test2IsoTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TileTest1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 0.9799,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1160.8327380344933,
+                "y": 442.39208082457395
+            }
+        },
+        "level2.tmx": {
+            "scale": 0.9803,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 2228.399469550138,
+                "y": 1265.4289503213304
+            }
+        },
+        "level3.tmx": {
+            "scale": 1.058,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1713.1379962192814,
+                "y": 628.0718336483931
+            }
+        },
+        "map1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 333.5,
+                "y": 277.5
+            }
+        }
+    },
+    "frame.defaultDuration": 500,
+    "last.exportedFilePath": "/Users/allanwang/Documents/SCC 210/Dungeon-Crawler/core/assets/maps",
+    "last.externalTilesetPath": "/Users/allanwang/Documents/SCC 210/Dungeon-Crawler/core/assets/maps",
+    "last.imagePath": "/Users/allanwang/Documents/SCC 210/Dungeon-Crawler/core/assets/maps",
+    "map.height": 75,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.renderOrder": null,
+    "map.tileWidth": 64,
+    "map.width": 75,
+    "openFiles": [
+        "Level1.tmx",
+        "Test1.tsx"
+    ],
+    "project": "assets.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "level2.tmx",
+        "Level1.tmx",
+        "level1.tmx",
+        "BigProps.tsx",
+        "Test1.tsx",
+        "TileTest1.tsx",
+        "Minecraft.tsx",
+        "Test2IsoTiles.tsx",
+        "Test2.3.tmx",
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2.3.tmx",
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2.2.tmx",
+        "/Users/allanwang/Documents/SCC 210/TMXMap/Test2IsoTiles.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 192,
+        "width": 64
+    }
+}
